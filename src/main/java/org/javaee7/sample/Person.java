@@ -2,6 +2,7 @@ package org.javaee7.sample;
 
 import javax.xml.bind.annotation.XmlRootElement;
 //On ajoute des trucs pour tester
+//on test le branchage
 /**
  * @author arungupta
  */
