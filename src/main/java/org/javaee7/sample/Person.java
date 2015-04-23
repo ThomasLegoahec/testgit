@@ -1,7 +1,7 @@
 package org.javaee7.sample;
 
 import javax.xml.bind.annotation.XmlRootElement;
-
+//On ajoute des trucs pour tester
 /**
  * @author arungupta
  */
